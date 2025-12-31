@@ -65,30 +65,21 @@ The objective is to support **data-driven sales and marketing decisions** by bui
 
 ---
 
-## 🖥 Dashboards & Visualizations
+## 🖥 Dashboards
 
 ### 🧾 Excel Dashboard
-- Visualizes **leads, opportunities, conversions, and revenue**
-- Interactive **charts, slicers & pivot tables**
-- Filters by **industry, lead source, status, year, opportunity type**
-- Supports **quick performance analysis**
+![Excel Dashboard](https://github.com/SakshiJ29/crm-data-analysis/blob/main/Dashboard%20screenshots/Excel%20Dashboards.png)
 
 ### 📊 Power BI Dashboard
-- Comprehensive overview of **lead & opportunity pipeline**
-- KPIs: **conversion rate, win rate, expected revenue**
-- Identifies **top industries, lead sources & countries**
-- Dynamic filters for **industry, year, opportunity type, stage**
+![Power BI Dashboard](https://github.com/SakshiJ29/crm-data-analysis/blob/main/Dashboard%20screenshots/PowerBi%20Dashboards.png)
+
+### 📈 Tableau Dashboard
+![Tableau Dashboard](https://github.com/SakshiJ29/crm-data-analysis/blob/main/Dashboard%20screenshots/Tableau%20Dashboards.png)
 
 ---
 
 ## 🗃 SQL Analysis
 SQL queries were written on the `supply_chain` database using `lead` and `opportunity` tables.
-
-Key SQL operations include:
-- Aggregations using `SUM()` and `COUNT()`
-- Performance segmentation with `GROUP BY`
-- Revenue, win/loss rate extraction
-- Lead & opportunity segmentation by **industry, source, stage, and type**
 
 ---
 
